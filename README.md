@@ -3,39 +3,38 @@ easy Augmented Generative Intelligence LLM enhancement framework<br />
 
 ```csharp
 easyAGI/
-├── docs/  # Documentation for various aspects of the project.
+├── docs/  # Documentation for various aspects of the project
 │   ├── white_papers/  white papers discussing theoretical aspects of easyAGI innovations
 │   ├── technical_docs/  # technical documentation for developers
 │   ├── user_guides/  # guides for end-users and UIUX integration
-│   └── tutorials/  # step-by-step tutorials for various functionalities.
-├── https://github.com/easyAGI/  # Source code for all submodules and main functionalities.
-│   │   ├── simplemind/  # code for the SimpleMind.py neural network and coach.py trainer to learn from stm and modus ponens
-│   │   ├── mastermind/  # code for masterind.py and controller.py for orchestrator of agency
-│   │   ├── automind/  # code for reasoning from automind.py
-│   |   |-- openmind.py # integrates automind.py agi.py SocraticReasoning.py logic.py
-│   │   ├── automindx/  # executalbe automindx agency environment for advanced reasoning technigues and agent generation
-│   │   │   ├── SimpleCoder/  # simple coding agent with bash, python and markdown agent generation
-│   │   │   └── ez/  # ez.js easy action event javascript controller
-│   │   ├── mindX/  # Core functionalities for the MindX submodule
-│   │   │   ├── decisions/  # logging for internal reasoning
-│   │   │   ├── agency/  # tools as agents orchestated by mastermind
-│   │   │   └── control/  # control mechanisms for internal reasoning outputs from mastermind orchestration
-│   │   ├── ez/  # core features easy javascript action events
-│   │   ├── tests/  # tests for EasyAGI
-│   │   ├── decisions/  # decision-making components
+│   └── tutorials/  # step-by-step tutorials for various functionalities
+├── https://github.com/easyAGI/  # Source code for all submodules and main functionalities
 │   │   ├── memory/  # storage for memory-related data including short term, long term and episodic memory
 |   |   |-- memory.py # folder creation
 │   │   │   ├── truth/  # truth data storage for consistent information for SimpleMind training into fact using coach
 │   │   │   └── logs/  # logs for tracking memory-related processes and reasoning outputs to be considered for training
+│   │   ├── automind/  # code for reasoning from automind.py
+│   |   |-- openmind.py # integrates automind.py agi.py SocraticReasoning.py logic.py
+│   │   ├── simplemind/  # code for the SimpleMind.py neural network and coach.py trainer to learn from stm and modus ponens
+│   │   ├── mastermind/  # code for masterind.py and controller.py for orchestrator of agency
+│   │   ├── automindx/  # executalbe automindx agency environment for advanced reasoning technigues and agent generation
+│   │   │   ├── SimpleCoder/  # simple coding agent with bash, python and markdown agent generation
+│   │   │   └── ez/  # ez.js easy action event javascript controller
+│   │   ├── ez/  # core features easy javascript action events
+│   │   ├── tests/  # tests for EasyAGI
+│   │   ├── decisions/  # decision-making components
 │   │   └── mindx/  # executable environment folder to allow internal reasoning, SimpleCoder and agents to create agents for agency
 │   │       ├── intr/  # internal reasoning and information retrieval from thoughts
 │   │       └── training/  # training processes for models, including SimpleMind with coach
+│   │       ├── decisions/  # logging for internal reasoning
+│   │       ├── agency/  # tools as agents orchestated by mastermind
+│   │       └── control/  # control mechanisms for internal reasoning outputs from mastermind orchestration
 │   ├── webmind/  # handles web-based data access and processing
 │   │   ├── data_access/  # data access modules
 |   |   |-- ollama_handler.py # integration with ollama models
 |   |   |-- chatter.py # handler of input reponse chat interface
 │   │   └── tests/  # tests for webMind
-│   ├── webmindML/  # Machine Learning functionalities for web data
+│   ├── webmindML/  # Machine Learning functionalities for data accessed by webmind
 │   │   ├── data_processing/  # Data processing modules
 │   │   └── tests/  # tests for webMindML
 │   └── common/  # common utilities and configurations shared across submodules
