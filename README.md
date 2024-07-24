@@ -8,16 +8,16 @@ PYTHAI/
 │   ├── technical_docs/  # technical documentation for developers
 │   ├── user_guides/  # guides for end-users and UIUX integration
 │   └── tutorials/  # step-by-step tutorials for various functionalities.
-├── https://github.com/easyGLM/ezAGI/  # Source code for all submodules and main functionalities.
-│   ├── ezAGI/  # contains submodules and features specific to EasyAGI.
-│   │   ├── simplemind/  # code for the SimpleMind.py neural network and coach.py trainer
+├── https://github.com/easyAGI/  # Source code for all submodules and main functionalities.
+│   │   ├── simplemind/  # code for the SimpleMind.py neural network and coach.py trainer to learn from stm and modus ponens
 │   │   ├── mastermind/  # code for masterind.py and controller.py for orchestrator of agency
 │   │   ├── automind/  # code for reasoning from automind.py
-│   │   ├── automindx/  # automind agency environment for advanced reasoning technigues
+│   |   |-- openmind.py # integrates automind.py agi.py SocraticReasoning.py logic.py
+│   │   ├── automindx/  # executalbe automindx agency environment for advanced reasoning technigues and agent generation
 │   │   │   ├── SimpleCoder/  # simple coding agent with bash, python and markdown agent generation
-│   │   │   └── ez/  # easy action event controller
+│   │   │   └── ez/  # ez.js easy action event javascript controller
 │   │   ├── mindX/  # Core functionalities for the MindX submodule
-│   │   │   ├── decisions/  # internal reasoning
+│   │   │   ├── decisions/  # logging for internal reasoning
 │   │   │   ├── agency/  # tools as agents orchestated by mastermind
 │   │   │   └── control/  # control mechanisms for internal reasoning outputs from mastermind orchestration
 │   │   ├── ez/  # core features easy javascript action events
@@ -38,7 +38,6 @@ PYTHAI/
 │   ├── webmindML/  # Machine Learning functionalities for web data
 │   │   ├── data_processing/  # Data processing modules
 │   │   └── tests/  # tests for webMindML
-│   ├── openmind/  # open-source components from fundamentalAGI, agi and internal reasoning
 │   └── common/  # common utilities and configurations shared across submodules
 │       ├── utils/  # utility functions
 │       ├── configs/  # Configuration files
