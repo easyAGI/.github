@@ -1,7 +1,7 @@
 # easyAGI
 easy Augmented Generative Intelligence LLM enhancement framework<br />
 
-
+```csharp
 PYTHAI/
 ├── docs/  # Documentation for various aspects of the project.
 │   ├── white_papers/  white papers discussing theoretical aspects of easyAGI innovations
@@ -74,7 +74,7 @@ PYTHAI/
     ├── images/  # generated image files
     ├── gfx/  # graphics and CSS and styling files
     └── templates/  # templates for various uses
-
+```
 started out as funAGI fundamental augmented generative intelligence<br />
 integrated SocracticReasoning and logic<br />
 created memory folder to handle building folders for short term, long term and episodic memory<br />
