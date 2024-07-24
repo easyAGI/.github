@@ -2,7 +2,7 @@
 easy Augmented Generative Intelligence LLM enhancement framework<br />
 
 ```csharp
-PYTHAI/
+easyAGI/
 ├── docs/  # Documentation for various aspects of the project.
 │   ├── white_papers/  white papers discussing theoretical aspects of easyAGI innovations
 │   ├── technical_docs/  # technical documentation for developers
