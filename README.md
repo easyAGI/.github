@@ -78,7 +78,7 @@ PYTHAI/
     └── templates/  # templates for various uses
 ```
 
-https://github.com/easyAGI/ezAGI # first "USEFUL" reasoning point of departure as multi-model expression UIUX with coherent logging<br />
+https://github.com/easyAGI/ezAGI # first "USEFUL" reasoning point of departure as multi-model expression UIUX with coherent logging to showcase reasoning enhancement from logical expressions<br />
 
 ---> extrapolated into development zone https://github.com/easyGLM/ezAGI<br />
 
