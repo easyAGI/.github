@@ -1,6 +1,33 @@
 # easyAGI
 easy Augmented Generative Intelligence LLM enhancement framework<br />
 
+```python
+aug·ment·ed
+/ôɡˈmen(t)əd/
+
+adjective: augmented
+    having been made greater in size or value
+```
+
+```python
+gen·er·a·tive
+/ˈjen(ə)rədiv,ˈjenəˌrādiv/
+
+adjective: generative
+
+    denoting an approach to any field of linguistics that involves applying a finite set of rules to linguistic input in order to produce all and only the well-formed items of a language
+    relating to or capable of production or reproduction
+```
+
+```python
+in·tel·li·gence
+/inˈteləj(ə)ns/
+
+noun: intelligence
+
+    the ability to acquire and apply knowledge and skills
+```
+
 ```csharp
 easyAGI/
 ├── docs/  # Documentation for various aspects of the project
