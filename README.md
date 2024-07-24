@@ -16,14 +16,15 @@ PYTHAI/
 │   │   ├── automindx/  # automind agency environment for advanced reasoning technigues
 │   │   │   ├── SimpleCoder/  # simple coding agent with bash, python and markdown agent generation
 │   │   │   └── ez/  # easy action event controller
-│   │   ├── mindX/  # Core functionalities for the MindX submodule.
+│   │   ├── mindX/  # Core functionalities for the MindX submodule
 │   │   │   ├── decisions/  # internal reasoning
 │   │   │   ├── agency/  # tools as agents orchestated by mastermind
 │   │   │   └── control/  # control mechanisms for internal reasoning outputs from mastermind orchestration
 │   │   ├── ez/  # core features easy javascript action events
-│   │   ├── tests/  # tests for EasyAGI.
-│   │   ├── decisions/  # decision-making components.
+│   │   ├── tests/  # tests for EasyAGI
+│   │   ├── decisions/  # decision-making components
 │   │   ├── memory/  # storage for memory-related data including short term, long term and episodic memory
+|   |   |-- memory.py # folder creation
 │   │   │   ├── truth/  # truth data storage for consistent information for SimpleMind training into fact using coach
 │   │   │   └── logs/  # logs for tracking memory-related processes and reasoning outputs to be considered for training
 │   │   └── mindx/  # executable environment folder to allow internal reasoning, SimpleCoder and agents to create agents for agency
@@ -31,6 +32,8 @@ PYTHAI/
 │   │       └── training/  # training processes for models, including SimpleMind with coach
 │   ├── webmind/  # handles web-based data access and processing
 │   │   ├── data_access/  # data access modules
+|   |   |-- ollama_handler.py # integration with ollama models
+|   |   |-- chatter.py # handler of input reponse chat interface
 │   │   └── tests/  # tests for webMind
 │   ├── webmindML/  # Machine Learning functionalities for web data
 │   │   ├── data_processing/  # Data processing modules
