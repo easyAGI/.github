@@ -1,6 +1,15 @@
 # easyAGI
 easy Augmented Generative Intelligence LLM enhancement framework<br />
 
+
+```python
+eas·y
+/ˈēzē/
+adjective: easy;
+
+    achieved without great effort; presenting few difficulties
+    "an easy way of retrieving information"
+```
 ```python
 aug·ment·ed
 /ôɡˈmen(t)əd/
