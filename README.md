@@ -1,4 +1,4 @@
-# easyAGI
+# <a href="https://github.com/easyAGI/">easyAGI</a>
 easy Augmented Generative Intelligence LLM enhancement framework<br />
 
 
