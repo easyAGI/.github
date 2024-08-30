@@ -118,5 +118,18 @@ https://github.com/easyAGI/ezAGI # first "USEFUL" reasoning point of departure a
 ---> extrapolated into development zone https://github.com/easyGLM/ezAGI<br />
 
 where here, at easyAGI, is where all of the components will come together<br />
+point of departure<br />
+https://github.com/mastermindML/mastermind<br />
+funAGI team<br />
+https://lablab.ai/event/lablab-next-create-your-startup/funagi<br />
+first terminal version of automind<br  />
+https://github.com/autoGLM/funagi<br />
+working instance of automind logging version<br />
+https://https://github.com/easyAGI/ezAGI<br />
+first ollama integration lmAGI UIUX<br />
+https://github.com/llamagi/lmagi<br />
+first mastermind integration step 1<br />
+https://github.com/easyGLM/ezAGI<br />
 
+anticipated production release https://github.com/easyAGI/easyAGI<br />
 https://github.com/easyAGI<br />
