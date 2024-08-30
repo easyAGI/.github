@@ -141,4 +141,4 @@ easy Augmented Generative Intelligence<br />
 <br />
 <br />
 <br />
-Say hello to <a href="github.com/github.com/Professor-Codephreak">Professor Codephreak</a> to learn more about machine learning<br />
+Say hello to <a href="github.com/github.com/Professor-Codephreak">Professor Codephreak</a> to learn more about <a href="https://rage.pythai.net">machine learning</a>, <a href="https://github.com/augml">agency</a> and rise of the <a href="https://pythai.net">knowledge economy</a> <br />
