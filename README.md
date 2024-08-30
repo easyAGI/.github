@@ -128,7 +128,9 @@ working instance of automind logging version<br />
 https://https://github.com/easyAGI/ezAGI<br />
 first ollama integration lmAGI UIUX<br />
 https://github.com/llamagi/lmagi<br />
-first mastermind integration step 1<br />
+first mastermind integration stage one<br />
+team ezAGI<br />
+https://lablab.ai/event/llama-3-ai-hackathon/ezagi<br />
 https://github.com/easyGLM/ezAGI<br />
 
 anticipated production release<br />
