@@ -117,7 +117,7 @@ https://github.com/easyAGI/ezAGI # first "USEFUL" reasoning point of departure a
 
 ---> extrapolated into development zone https://github.com/easyGLM/ezAGI<br />
 
-where here, at easyAGI, is where all of the components sythezize into UIUX as production expression<br />
+where here, at easyAGI, is where all of the components sythesize into UIUX as production expression<br />
 point of departure<br />
 https://github.com/mastermindML/mastermind<br />
 funAGI team<br />
