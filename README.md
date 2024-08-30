@@ -131,5 +131,6 @@ https://github.com/llamagi/lmagi<br />
 first mastermind integration step 1<br />
 https://github.com/easyGLM/ezAGI<br />
 
-anticipated production release https://github.com/easyAGI/easyAGI<br />
-https://github.com/easyAGI<br />
+anticipated production release<br />
+https://github.com/easyAGI/easyAGI<br />
+easy Augmented Generative Intelligence https://github.com/easyAGI<br />
