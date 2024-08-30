@@ -133,4 +133,5 @@ https://github.com/easyGLM/ezAGI<br />
 
 anticipated production release<br />
 https://github.com/easyAGI/easyAGI<br />
-easy Augmented Generative Intelligence https://github.com/easyAGI<br />
+easy Augmented Generative Intelligence<br />
+<a href="https://github.com/easyAGI">easyAGI</a><br />
