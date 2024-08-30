@@ -141,4 +141,4 @@ easy Augmented Generative Intelligence<br />
 <br />
 <br />
 <br />
-Say hello to <a href="github.com/Professor-Codephreak">Professor Codephreak</> to learn more about machine learning<br />
+Say hello to <a href="github.com/github.com/Professor-Codephreak">Professor Codephreak</a> to learn more about machine learning<br />
