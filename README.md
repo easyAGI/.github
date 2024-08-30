@@ -117,7 +117,7 @@ https://github.com/easyAGI/ezAGI # first "USEFUL" reasoning point of departure a
 
 ---> extrapolated into development zone https://github.com/easyGLM/ezAGI<br />
 
-where here, at easyAGI, is where all of the components will come together<br />
+where here, at easyAGI, is where all of the components sythezize into UIUX as production expression<br />
 point of departure<br />
 https://github.com/mastermindML/mastermind<br />
 funAGI team<br />
@@ -137,3 +137,8 @@ anticipated production release<br />
 https://github.com/easyAGI/easyAGI<br />
 easy Augmented Generative Intelligence<br />
 <a href="https://github.com/easyAGI">easyAGI</a><br />
+
+<br />
+<br />
+<br />
+Say hello to <a href="github.com/Professor-Codephreak">Professor Codephreak</> to learn more about machine learning<br />
